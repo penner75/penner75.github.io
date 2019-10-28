@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # David Penner 
 
 P:204.619.1187 - E:penner75@myumanitoba.ca 
