@@ -6,7 +6,7 @@
 
 | Technology  |  Atom |  Markdown |  GitHub | Jekyll  |
 |---|---|---|---|---|
-| Experience  | none | some  | none  | none  |
+| Experience  | none | none  | some  | none  |
 
 *Venue*: README file within GitHub Pages
 
