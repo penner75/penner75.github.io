@@ -4,11 +4,6 @@
 
 *Audience*:
 
-- no experience in Atom
-- no experience in Markdown
-- some experience in GitHub
-- no experience with Jekyll
-
 | Technology  |  Atom |  Markdown |  GitHub | Jekyll  |
 |---|---|---|---|---|
 | Experience  | none | none  | some  | none  |
