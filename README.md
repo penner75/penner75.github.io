@@ -15,11 +15,11 @@
 
 *Additional purpose*: Increase experience and confidence in technical writing tools: Markdown, Jekyll, and GitHub Pages.
 
-*Desired Reaction*: 
+*Desired Reaction*: Reader will be interested in utilizing GitHub pages to host a webpage
 
-*Vocabulary*: 
+*Vocabulary*: Simple
 
-*Tone*: 
+*Tone*: Polite, Casual
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@
 
 ## Instructions
 
-`![Gif of Entire Process](/"Entire Process.gif")
+![Gif of Entire Process](/"Entire Process.gif")
 
 ### Create GitHub Pages Repository
 
