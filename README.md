@@ -29,7 +29,7 @@
 
 ## Instructions
 
-![Entire Process](Gif Stuff/Entire Process.gif)
+![](Gif Stuff/Entire Process.gif)
 
 ### Create GitHub Pages Repository
 
