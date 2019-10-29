@@ -9,9 +9,9 @@
 - some experience in GitHub
 - no experience with Jekyll
 
-| *Venue*  |  README file within GitHub Pages |  
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Technology  |  Atom |  Markdown |  GitHub | Jekyll  |
+|---|---|---|---|---|
+| Experience  | none | none  | some  | none  |
 
 *Venue*: README file within GitHub Pages
 
