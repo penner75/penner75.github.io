@@ -33,8 +33,6 @@
 
 ## Instructions
 
-![](Entire Process.gif)
-
 ### Create GitHub Pages Repository
 
 1. click "new repository"
