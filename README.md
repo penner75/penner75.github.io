@@ -9,6 +9,10 @@
 - some experience in GitHub
 - no experience with Jekyll
 
+| *Venue*  |  README file within GitHub Pages |  
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 *Venue*: README file within GitHub Pages
 
 *Purpose*: Write a resume using Markdown, Format the resume with a Jekyll theme, and host resume (for free) on GitHub Pages.
