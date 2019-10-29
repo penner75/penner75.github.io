@@ -62,7 +62,7 @@
 
 ### Revise Theme
 
-1. In your main folder, there should now be a filed called "config.yaml"
+1. In your main folder, there should now be a filed called "config.yml"
 2. Edit this file, and add a title. For instance: title:My Resume!;
 
 ## Resources
