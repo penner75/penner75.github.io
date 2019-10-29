@@ -75,7 +75,7 @@ Thank you to my group members, Brendan Stothers and Proyash Saha. Thank you to t
 
 ## FAQs (at least 2)
 
-*Why isn't my page showing up*
+*Why isn't my page showing up?*
 
 Check to make sure that your resume has been renamed to "index.md", and that your repository is named "(yourUserName).github.io".
 
