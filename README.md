@@ -37,7 +37,7 @@
 
 ### ii. Upload Resume
 
-1. Go to your "repository"  under "yourUserName"/"yourUserName".github.io (this will already be open if you just finished step **ii**)
+1. Go to your "repository"  under "yourUserName"/"yourUserName".github.io (this will already be open if you just finished step **i**)
 
    eg.penner75/penner75.github.io
 
