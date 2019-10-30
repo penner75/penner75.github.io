@@ -77,7 +77,7 @@
 
 3. Edit this file by adding a title. Insert the following code at the top, replacing (My Title!) with your title
 
-   title:(My Title!);
+   title:(My Title!)
 
 ## Resources
 
